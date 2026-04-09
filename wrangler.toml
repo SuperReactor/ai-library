@@ -1,5 +1,5 @@
-name = "ai-gateway"
-main = "worker.js"
+name = "ai-gateway-pages"
+main = "functions/api.js"
 compatibility_date = "2025-01-01"
 
 [ai]
